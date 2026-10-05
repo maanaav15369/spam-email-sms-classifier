@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+models/*.joblib
+data/sms_spam.csv
+data/SMSSpamCollection
+
+venv/
+__pycache__/
+*.pyc
